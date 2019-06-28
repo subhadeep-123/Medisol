@@ -1,7 +1,7 @@
 # Medisol
 A Cutting Edge Deep Learning System which can not only read the critical Medical Reports for you, but also suggest the top 3 Speciality Hospitals Aroung you.
 
-This Project Won 2nd Position at CIEM - Celcius'19
+This Project Won 2nd Position at CIEM - Celcius'19 Hackathon
 
 ## Meet The Team
 1. Adrish Dey [@captain-pool](https://github.com/captain-pool): Backend
